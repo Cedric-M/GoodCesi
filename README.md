@@ -4,7 +4,21 @@ GoodCesi est un prototype d’application web de type le bon coin. L’applicati
 
 ## Preview
 
+Page d'Accueil:
+
 ![image](https://user-images.githubusercontent.com/19567048/57774829-d7cefe00-771b-11e9-8dc5-77b6ab3db6bd.png)
+
+
+Espace vendeur:
+
+![image](https://user-images.githubusercontent.com/19567048/57783945-5719fd00-772f-11e9-8818-10a5bbcd6d79.png)
+
+
+
+Espace acheteur:
+
+![image](https://user-images.githubusercontent.com/19567048/57783894-3fdb0f80-772f-11e9-93ca-c95aac0b5fb7.png)
+
 
 ## Built With
 
