@@ -9,6 +9,11 @@ Page d'Accueil:
 ![image](https://user-images.githubusercontent.com/19567048/57774829-d7cefe00-771b-11e9-8dc5-77b6ab3db6bd.png)
 
 
+Page d'Accueil (avec utilisateur connecté):
+
+![image](https://user-images.githubusercontent.com/19567048/57784031-7dd83380-772f-11e9-819d-94ed3da16488.png)
+
+
 Espace vendeur:
 
 ![image](https://user-images.githubusercontent.com/19567048/57783945-5719fd00-772f-11e9-8818-10a5bbcd6d79.png)
