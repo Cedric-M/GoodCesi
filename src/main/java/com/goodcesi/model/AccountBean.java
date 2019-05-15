@@ -8,6 +8,8 @@ package com.goodcesi.model;
 import com.goodcesi.business.domain.User;
 
 import com.goodcesi.business.usermgmt.UserManagerLocal;
+import com.goodcesi.qualifier.ScopeMonitor;
+import java.io.Serializable;
 import java.io.UnsupportedEncodingException;
 import java.security.MessageDigest;
 import java.security.NoSuchAlgorithmException;
@@ -27,7 +29,8 @@ import javax.servlet.http.HttpSession;
  */
 @ApplicationScoped
 @Named("accountModel")
-public class AccountBean implements AccountModel{
+@ScopeMonitor
+public class AccountBean implements AccountModel, Serializable{
  
     @Inject
     private UserManagerLocal userManager;
