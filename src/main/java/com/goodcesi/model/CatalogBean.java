@@ -23,7 +23,7 @@ import javax.inject.Named;
 public class CatalogBean{
     
     @Inject  
-    private CatalogManagerLocal catalogManager = new CatalogManager();
+    private CatalogManagerLocal catalogManager;
     
     private List<Item> itemsFromCategory;
     
