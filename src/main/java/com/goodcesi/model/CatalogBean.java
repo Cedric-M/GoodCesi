@@ -5,12 +5,12 @@
  */
 package com.goodcesi.model;
 
-import com.goodcesi.business.catalogmgmt.CatalogManager;
 import com.goodcesi.business.catalogmgmt.CatalogManagerLocal;
 import com.goodcesi.business.domain.*;
 import java.util.*;
 import javax.enterprise.context.RequestScoped;
 import javax.faces.context.FacesContext;
+import javax.inject.Inject;
 import javax.inject.Named;
 
 /**
@@ -22,6 +22,7 @@ import javax.inject.Named;
 @RequestScoped
 public class CatalogBean{
     
+    @Inject  
     private CatalogManagerLocal catalogManager = new CatalogManager();
     
     private List<Item> itemsFromCategory;
