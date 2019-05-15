@@ -13,6 +13,7 @@
 /home/ced/javaProjects/goodcesi/src/main/java/com/goodcesi/model/OrderListBean.java
 /home/ced/javaProjects/goodcesi/src/main/java/com/goodcesi/business/domain/OrderStatus.java
 /home/ced/javaProjects/goodcesi/src/main/java/com/goodcesi/business/domain/UserGroup.java
+/home/ced/javaProjects/goodcesi/src/main/java/com/goodcesi/qualifier/Authenticated.java
 /home/ced/javaProjects/goodcesi/src/main/java/com/goodcesi/integration/dao/CrudServiceLocal.java
 /home/ced/javaProjects/goodcesi/src/main/java/com/goodcesi/model/ItemBean.java
 /home/ced/javaProjects/goodcesi/src/main/java/com/goodcesi/business/ordermgmt/CallerContext.java
